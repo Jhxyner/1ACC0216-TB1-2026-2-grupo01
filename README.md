@@ -21,18 +21,19 @@ Reservas de un City Hotel (Lisboa) y un Resort Hotel (Algarve), llegadas del 01/
 - `data/hotel_bookings_preparado.csv`: versión limpia (`hotel_limpio`, 87,396 reservas sin duplicados exactos).
 
 ## Estructura
+```text
 1ACC0216-TB1-2026-2-grupoXX/
 │
-├── README.md
-├── data/
-│ ├── hotel_bookings_original.csv
-│ └── hotel_bookings_preparado.csv
+├── README.md                          # Documentación principal del proyecto
+├── data/                              # Directorio de conjuntos de datos
+│   ├── hotel_bookings_original.csv    # Dataset base sin procesar
+│   └── hotel_bookings_preparado.csv   # Dataset limpio tras la etapa de preparación
 │
-├── code/
-│ └── upc-grupoXX-tb1-codigo.R
+├── code/                              # Directorio de scripts
+│   └── upc-grupoXX-tb1-codigo.R       # Código fuente principal en R
 │
-└── output/
-└── gráficos
+└── output/                            # Directorio de resultados
+    └── gráficos/                      # Visualizaciones exportadas por el script
 
 ## Conclusiones principales
 - El City Hotel concentra más reservas (61.1%) y cancela más (30.0% vs. 23.5% del Resort).
