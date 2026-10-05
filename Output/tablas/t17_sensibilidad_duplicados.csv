@@ -1,0 +1,5 @@
+"hotel","version","reservas","tasa_cancelacion","porcentaje_reservas"
+"City Hotel","Sin duplicados",53428,30,61.1
+"Resort Hotel","Sin duplicados",33968,23.5,38.9
+"City Hotel","Con duplicados",79330,41.7,66.4
+"Resort Hotel","Con duplicados",40060,27.8,33.6

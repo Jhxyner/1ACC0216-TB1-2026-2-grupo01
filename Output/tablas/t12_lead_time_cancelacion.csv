@@ -1,0 +1,5 @@
+"hotel","estado_cancelacion","reservas","media","mediana","q1","q3"
+"City Hotel","No cancelada",37379,67.4,40,8,103
+"City Hotel","Cancelada",16049,101.6,75,31,150
+"Resort Hotel","No cancelada",25992,74,34,5,122
+"Resort Hotel","Cancelada",7976,113.9,91,36,174

@@ -1,0 +1,7 @@
+"hotel","variable","n","media","mediana","desv_est","minimo","maximo","asimetria"
+"City Hotel","lead_time",53428,77.68,50,82.11,0,629,1.58
+"Resort Hotel","lead_time",33968,83.37,47,91.8,0,737,1.24
+"City Hotel","noches_totales",53428,3.15,3,2.09,0,57,3.76
+"Resort Hotel","noches_totales",33968,4.39,4,3.44,0,69,2.35
+"City Hotel","adr_depurado",52350,113.17,106.25,39.56,0.5,510,1.08
+"Resort Hotel","adr_depurado",33266,101.12,80.1,62.77,0.26,508,1.16

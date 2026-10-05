@@ -1,0 +1,25 @@
+"hotel","mes","reservas","tasa_cancelacion","adr_promedio"
+"City Hotel","Ene",1030,20.8,78.3
+"City Hotel","Feb",1661,22.6,84.6
+"City Hotel","Mar",2368,27.3,93.3
+"City Hotel","Abr",2413,31,105.5
+"City Hotel","May",2343,27.4,119
+"City Hotel","Jun",2285,26.8,114.1
+"City Hotel","Jul",2487,27.3,119.4
+"City Hotel","Ago",2816,32.3,125.5
+"City Hotel","Sep",2568,29.3,128
+"City Hotel","Oct",2649,31.6,117
+"City Hotel","Nov",2145,28.4,97.7
+"City Hotel","Dic",1994,38.1,99.9
+"Resort Hotel","Ene",819,10.6,47.9
+"Resort Hotel","Feb",1145,13.3,52.9
+"Resort Hotel","Mar",1463,16.3,57.6
+"Resort Hotel","Abr",1357,19.5,69.9
+"Resort Hotel","May",1437,20.7,74.9
+"Resort Hotel","Jun",1232,24.3,104.8
+"Resort Hotel","Jul",1364,30.2,158.9
+"Resort Hotel","Ago",1607,33.1,193.7
+"Resort Hotel","Sep",1283,25.2,111.9
+"Resort Hotel","Oct",1585,23,70.3
+"Resort Hotel","Nov",1185,17,52.3
+"Resort Hotel","Dic",1155,21.3,73.3

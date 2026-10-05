@@ -1,0 +1,6 @@
+"hotel","is_canceled","lead_time","arrival_date_year","arrival_date_month","stays_in_week_nights","adults","market_segment","deposit_type","adr"
+"Resort Hotel",0,342,2015,"July",0,2,"Direct","No Deposit",0
+"Resort Hotel",0,737,2015,"July",0,2,"Direct","No Deposit",0
+"Resort Hotel",0,7,2015,"July",1,1,"Direct","No Deposit",75
+"Resort Hotel",0,13,2015,"July",1,1,"Corporate","No Deposit",75
+"Resort Hotel",0,14,2015,"July",2,2,"Online TA","No Deposit",98
